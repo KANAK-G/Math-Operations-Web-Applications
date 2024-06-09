@@ -3,8 +3,8 @@
 1. **Clone the repository**:
 
     ```sh
-    git clone https://github.com/your_username/your_repository.git
-    cd your_repository/streamlit_app
+    git clone https://github.com/KANAK-G/Math-Operations-Web-Applications.git
+    cd Math-Operations-Web-Applications/streamlit_app
     ```
 
 2. **Create and activate a virtual environment** (optional but recommended):
