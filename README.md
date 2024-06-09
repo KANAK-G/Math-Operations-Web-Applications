@@ -6,23 +6,14 @@ This repository contains two web applications for performing basic math operatio
 
 ### Flask Application
 
-flask_app/
-│
-├── static/
-│ ├── css/
-│ │ ├── main.css
-│ │ └── style.css
-│
-├── templates/
-│ ├── index.html
-│ └── results.html
-│
-├── app.py
-└── requirements.txt
+
+![Directory Structure](/images/flask_app.png)
+
+
+
 
 ### Streamlit Application
 
-streamlit_app/
-│
-├── app.py
-└── requirements.txt
+![Directory Structure](/images/streamlit_app.png)
+
+
